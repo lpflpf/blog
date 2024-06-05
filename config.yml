@@ -23,14 +23,12 @@ markup:
       typographer: true
 params:
   bannerFont: fonts/noto-serif-sc-v7-latin_chinese-simplified-regular
-  description: '搬砖程序员，记录实践中的疑难杂症，不断学习，不断提升'
+  description: '搬砖程序员，不断学习，不断提升'
   enable: true
   footer:
     icp: '<a target="_blank" href="http://beian.miit.gov.cn/">京ICP备17037267号</a>'
     gov: >-
-      <a target="_blank"
-      href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502046463">京公网安备
-      11010502046463号</a>
+      <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502046463">京公网安备11010502046463号</a>
     hugo: false
     author: 
       name: lpflpf
@@ -101,7 +99,6 @@ outputs:
     - RSS
     - JSON
     - BaiduUrls
-
 
 defaultContentLanguage: "zh-cn"
 languages:
